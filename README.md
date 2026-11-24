@@ -96,4 +96,4 @@ O relatório com os erros encontrados, as correções aplicadas, os prompts util
 
 ## Autor
 
-Artur Martins · [GitHub](https://github.com/arturrmsilva) · [LinkedIn](https://linkedin.com/in/artur-martins-5a7b3436a/)
+Patrick Costa · [GitHub](https://github.com/Patrick28052005)
